@@ -1,14 +1,24 @@
 {
   "name": "ls",
   "version": "1.0.0",
-  "description": "",
+  "description": "cs5310_final_project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelaJiang1225/cs5310_final_project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AngelaJiang1225/cs5310_final_project/issues"
+  },
+  "homepage": "https://github.com/AngelaJiang1225/cs5310_final_project#readme"
 }
